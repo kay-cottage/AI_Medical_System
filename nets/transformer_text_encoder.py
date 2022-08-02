@@ -1,3 +1,4 @@
+# by kayak.gw
 import torch
 #import clip
 from PIL import Image
