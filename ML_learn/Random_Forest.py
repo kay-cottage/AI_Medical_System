@@ -5,7 +5,19 @@ import pandas as pd
 
  
 path = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
-
+'''
+# data format
+6.2,2.9,4.3,1.3,Iris-versicolor
+5.1,2.5,3.0,1.1,Iris-versicolor
+5.7,2.8,4.1,1.3,Iris-versicolor
+6.3,3.3,6.0,2.5,Iris-virginica
+5.8,2.7,5.1,1.9,Iris-virginica
+7.1,3.0,5.9,2.1,Iris-virginica
+6.3,2.9,5.6,1.8,Iris-virginica
+.
+.
+.
+'''
  
 headernames = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width', 'Class']
 
