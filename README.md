@@ -1,7 +1,13 @@
 # AI_Medical_System
 AI_Medical_System(idea分享，大创项目：AI全自动疾病诊断流程的一些构思）
 
+#-----------------------------------------------#
+update on 05/08/2022 by GW.kayak
 
+
+主干网络流程图如下：
+
+![Imgur](https://github.com/kay-cottage/AI_Medical_System/blob/main/1%20(2).png)
 
 #-----------------------------------------------#
 
