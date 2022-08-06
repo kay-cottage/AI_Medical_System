@@ -3,13 +3,19 @@ AI_Medical_System(idea分享，大创/基金项目：AI全自动疾病诊断流�
 
 
 #-----------------------------------------------#
+
+
 update on 06/08/2022 by GW.kayak
 
-上大招就：使用LSTM-CLIP时序神经网络结构，可尝试引入深度强化学习！（优点：潜力大，大数据下潜力效果优于机器学习；缺点：模型大，硬件要求高，结构复杂，不易驾驭，需要数据量很大，数据小容易过拟合）
-![Imgur](https://github.com/kay-cottage/AI_Medical_System/blob/main/1%20(2).png)
+上大招就使用LSTM-CLIP时序神经网络结构，可尝试引入深度强化学习！（优点：潜力大，大数据下潜力效果优于机器学习；缺点：模型大，硬件要求高，结构复杂，不易驾驭，需要数据量很大，数据小容易过拟合）；原理流程图DEMO如下：
+
+
+![Imgur](https://github.com/kay-cottage/AI_Medical_System/blob/main/LSTM1.png)
 
 
 #-----------------------------------------------#
+
+
 update on 05/08/2022 by GW.kayak
 
 
